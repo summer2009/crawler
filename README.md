@@ -14,6 +14,8 @@
 
 [cookie基础知识-03](https://blog.csdn.net/J080624/article/details/78560716)
 
-[golang 处理 cookie]()
+[golang 处理 cookie -01](https://colobu.com/2018/09/28/cookie-and-session-in-go/)
+
+[golang 处理 cookie -02](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/06.1.html)
 
 
