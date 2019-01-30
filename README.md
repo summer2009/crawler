@@ -8,7 +8,8 @@
 
 ### cookie 相关
 
-[cookie基础知识]()
+[cookie基础知识](https://www.cnblogs.com/ajianbeyourself/p/4900140.html)
+[cookie基础知识](https://segmentfault.com/a/1190000006156098)
 
 [golang 处理 cookie]()
 
