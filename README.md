@@ -12,6 +12,8 @@
 
 [cookie基础知识-02](https://segmentfault.com/a/1190000006156098)
 
+[cookie基础知识-03](https://blog.csdn.net/J080624/article/details/78560716)
+
 [golang 处理 cookie]()
 
 
