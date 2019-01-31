@@ -22,3 +22,5 @@
 
 [go web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
 
+[模拟登录-01](http://kekefund.com/2016/01/21/spider-cookie/)
+
