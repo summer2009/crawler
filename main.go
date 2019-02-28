@@ -18,6 +18,8 @@ type StatusWeibo struct {
 	NumOfPost      int
 }
 
+const domainStr string = "weibo.com/ntg7"
+
 func SubString(str string, begin, length int) string {
 	fmt.Println("string to Sub =", str)
 	rs := []rune(str)
@@ -48,15 +50,9 @@ func main() {
 	for k := 0; k < t.NumField(); k++ {
 		fmt.Printf("%s -- %v \n", t.Field(k).Name, v.Field(k).Interface())
 	}
-	/*
-		fmt.Println("Id:", status.Id)
-		fmt.Println("Content:", status.Content)
-		fmt.Println("PicPath:", status.PicPath)
-		fmt.Println("DomainStr:", status.DomainStr)
-		fmt.Println("TimeOfLastPost:", status.TimeOfLastPost)
-		fmt.Println("NumOfPost:", status.NumOfPost)
-	*/
+
 	fmt.Println(status)
+	fmt.Println("*****************************************")
 
 	f, err := os.Open("F:\\demo-project-env\\mygo\\src\\github.com\\bwb\\sentence2132.txt")
 	if err != nil {
@@ -65,8 +61,6 @@ func main() {
 	defer f.Close()
 
 	rd := bufio.NewReader(f)
-
-	i := 0
 
 	for {
 		line, err := rd.ReadString('\n') //以'\n'为结束符读入一行
@@ -77,22 +71,20 @@ func main() {
 			}
 		}
 
-		i++
-
-		if line != "" {
-			if i < 100 {
-				fmt.Println(line)
-				index := strings.Index(line, "、")
-				var strContent string
-				if index != -1 {
-					strContent = SubString(line, index+1, len(line))
-				}
-
-				fmt.Println(strContent)
-			}
-
-		} else {
-			fmt.Println("此处为空行")
+		fmt.Println(line)
+		index := strings.Index(line, "、")
+		var strContent string
+		if index != -1 {
+			strContent = strings.Replace(SubString(line, index+1, len(line)), "\r\n", "", -1)
 		}
+
+		fmt.Println(strContent)
+		statusToEs := StatusWeibo{Id: "1", Content: strContent, PicPath: " ", DomainStr: domainStr, TimeOfLastPost: " ", NumOfPost: 0}
+		t := reflect.TypeOf(statusToEs)
+		v := reflect.ValueOf(statusToEs)
+		for k := 0; k < t.NumField(); k++ {
+			fmt.Printf("%s -- %v \n", t.Field(k).Name, v.Field(k).Interface())
+		}
+
 	}
 }
