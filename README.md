@@ -36,6 +36,8 @@
 
 ### 深度学习
 
+[深度学习第一课](https://studygolang.com/articles/10121)
+
 [深度学习第二课：个性化推荐](https://studygolang.com/articles/10122)
 
 #### 图像相关
