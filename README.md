@@ -36,8 +36,10 @@
 
 ### 深度学习
 
+[深度学习第二课：个性化推荐](https://studygolang.com/articles/10122)
+
 #### 图像相关
 
 [tensorflow（六）训练分类自己的图片（CNN超详细入门版）](https://blog.csdn.net/Missayaaa/article/details/79119839)
 
-[深度学习第二课：个性化推荐](https://studygolang.com/articles/10122)
+
