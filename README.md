@@ -36,6 +36,8 @@
 
 [go语言获取新浪Cookie](https://blog.csdn.net/a448984863/article/details/77993774)
 
+[网页爬虫之cookie自动获取及过期自动更新的实现方法](https://www.wengbi.com/thread_107803_1.html)
+
 
 ### 深度学习
 
