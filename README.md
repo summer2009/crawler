@@ -34,6 +34,9 @@
 
 [Oauth 2.0之点我的链接就进入了你的账号](http://docs.ioin.in/writeup/ecma.io/_764_html/index.html)
 
+[go语言获取新浪Cookie](https://blog.csdn.net/a448984863/article/details/77993774)
+
+
 ### 深度学习
 
 [深度学习第一课](https://studygolang.com/articles/10121)
