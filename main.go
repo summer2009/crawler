@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"fmt"
 	"strconv"
 
 	//"fmt"
@@ -49,13 +50,18 @@ func main() {
 			for _, v := range cookies {
 				c = c + v.Name + "=" + v.Value + ";"
 
-				log.Println(v.Name + "=" + v.Value + ";" + strconv.FormatFloat(v.Expires, 'E', -1, 64))
+				log.Println(v.Name + "=" + v.Value + ";" + strconv.FormatFloat(v.Expires, 'E', -1, 64) + time.Unix(int64(v.Expires), 0).Format("2006-01-02 15:04:05"))
 			}
 			log.Println("***********************************************************************************************************")
 			log.Println("***********************************************************************************************************")
 			log.Println("***********************************************************************************************************")
 			log.Println("***********************************************************************************************************")
 			log.Println(c)
+			nt := time.Now()
+			//转换为时间格式字符串
+			const base_format = "2006-01-02 15:04:05"
+			str_time := nt.Format(base_format)
+			fmt.Printf("get cookie time:%v\n", str_time)
 
 			if err != nil {
 				return err
