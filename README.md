@@ -49,7 +49,7 @@
 
 #### 图像相关
 
-[深度学习开源图片数据库汇总]（https://blog.csdn.net/chaipp0607/article/details/71403797）
+[深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
 
 [tensorflow（六）训练分类自己的图片（CNN超详细入门版）](https://blog.csdn.net/Missayaaa/article/details/79119839)
 
