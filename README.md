@@ -10,6 +10,8 @@
 
 [golang chromedp使用教程](https://tech.mojotv.cn/2018/12/26/chromedp-tutorial-for-golang)
 
+[Chrome 下载](https://www.slimjet.com/chrome/google-chrome-old-version.php)
+
 ## 爬虫
 
 ### cookie 相关
