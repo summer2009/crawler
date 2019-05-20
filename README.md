@@ -40,6 +40,8 @@
 
 [新浪weibo](https://www.miaoerduo.com/miscellanea/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%88%AC%E8%99%AB%E5%AE%9E%E7%8E%B0.html)
 
+[新浪weibo Scroll 八爪鱼借鉴](https://www.bazhuayu.com/tutorial/ajgd_7)
+
 ### Oauth2.0 相关
 
 [Oauth 2.0之点我的链接就进入了你的账号](http://docs.ioin.in/writeup/ecma.io/_764_html/index.html)
