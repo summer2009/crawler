@@ -42,7 +42,7 @@
 
 [新浪weibo Scroll 借鉴01](https://www.bazhuayu.com/tutorial/ajgd_7)
 
-[新浪weibo Scroll 借鉴02]（https://juejin.im/post/5b4ac122f265da0f531e6705）
+[新浪weibo Scroll 借鉴02](https://juejin.im/post/5b4ac122f265da0f531e6705)
 
 [新浪weibo Scroll 借鉴03](https://www.imooc.com/article/36300)
 
