@@ -40,7 +40,9 @@
 
 [新浪weibo](https://www.miaoerduo.com/miscellanea/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%88%AC%E8%99%AB%E5%AE%9E%E7%8E%B0.html)
 
-[新浪weibo Scroll 八爪鱼借鉴](https://www.bazhuayu.com/tutorial/ajgd_7)
+[新浪weibo Scroll 借鉴01](https://www.bazhuayu.com/tutorial/ajgd_7)
+
+[新浪weibo Scroll 借鉴02]（https://juejin.im/post/5b4ac122f265da0f531e6705）
 
 ### Oauth2.0 相关
 
@@ -49,8 +51,6 @@
 [go语言获取新浪Cookie](https://blog.csdn.net/a448984863/article/details/77993774)
 
 [网页爬虫之cookie自动获取及过期自动更新的实现方法](https://www.wengbi.com/thread_107803_1.html)
-
-
 
 
 ### 深度学习
