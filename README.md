@@ -46,6 +46,8 @@
 
 [新浪weibo Scroll 借鉴03](https://www.imooc.com/article/36300)
 
+[新浪weibo Scroll 借鉴04](https://www.cnblogs.com/Denise-hzf/p/7927852.html)
+
 ### Oauth2.0 相关
 
 [Oauth 2.0之点我的链接就进入了你的账号](http://docs.ioin.in/writeup/ecma.io/_764_html/index.html)
