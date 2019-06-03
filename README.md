@@ -73,6 +73,8 @@
 
 [gensim简介](https://www.jianshu.com/p/e21b59a46e4c)
 
+[Gensim Word2vec 使用指南](https://www.jianshu.com/p/52ee8c5739b6)
+
 #### 图像相关
 
 [深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
