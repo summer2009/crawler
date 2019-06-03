@@ -67,6 +67,12 @@
 
 [深度学习第二课：个性化推荐](https://studygolang.com/articles/10122)
 
+#### NLP
+
+[15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
+
+[gensim简介](https://www.jianshu.com/p/e21b59a46e4c)
+
 #### 图像相关
 
 [深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
