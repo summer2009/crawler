@@ -75,6 +75,8 @@
 
 [Gensim Word2vec 使用指南](https://www.jianshu.com/p/52ee8c5739b6)
 
+[中文文本聚类](https://www.cnblogs.com/zhuimengzhe/p/7818336.html)
+
 #### 图像相关
 
 [深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
