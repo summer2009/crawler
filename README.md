@@ -50,6 +50,8 @@
 
 [用Python爬了菊姐2W条微博评论，竟发现“菊粉”都是这样的人！(附代码)](https://blog.csdn.net/qq_41888542/article/details/81143170)
 
+[单条微博评论](https://blog.csdn.net/silentacit/article/details/80325490)
+
 ### Oauth2.0 相关
 
 [Oauth 2.0之点我的链接就进入了你的账号](http://docs.ioin.in/writeup/ecma.io/_764_html/index.html)
