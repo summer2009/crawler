@@ -79,6 +79,10 @@
 
 [中文文本聚类](https://www.cnblogs.com/zhuimengzhe/p/7818336.html)
 
+[深度学习Attention机制在短文本分类上的应用——qjzcy的博客](https://blog.csdn.net/qjzcy/article/details/70215885)
+
+[python中文短文本的预处理及聚类分析（NLP）](https://blog.csdn.net/weixin_43483381/article/details/85157579)
+
 #### 图像相关
 
 [深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
