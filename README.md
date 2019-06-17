@@ -69,6 +69,18 @@
 
 [深度学习第二课：个性化推荐](https://studygolang.com/articles/10122)
 
+[深度学习笔记(一)：logistic分类](https://blog.csdn.net/u014595019/article/details/52554582)
+
+[深度学习笔记(二)：简单神经网络，后向传播算法及实现](https://blog.csdn.net/u014595019/article/details/52557623)
+
+[深度学习笔记(三)：激活函数和损失函数](https://blog.csdn.net/u014595019/article/details/52562159)
+
+[深度学习笔记(四)：循环神经网络的概念，结构和代码注释](https://blog.csdn.net/u014595019/article/details/52571966)
+
+[深度学习笔记(五)：LSTM](https://blog.csdn.net/u014595019/article/details/52605693)
+
+[深度学习笔记(六)：Encoder-Decoder模型和Attention模型](https://blog.csdn.net/u014595019/article/details/52826423)
+
 #### NLP
 
 [15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
