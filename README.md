@@ -81,6 +81,8 @@
 
 [深度学习笔记(六)：Encoder-Decoder模型和Attention模型](https://blog.csdn.net/u014595019/article/details/52826423)
 
+[深度学习笔记目录大全（吴恩达）--终于有翻译版本了](https://blog.csdn.net/sinat_41832255/article/details/80061620)
+
 #### NLP
 
 [15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
