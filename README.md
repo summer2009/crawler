@@ -83,6 +83,8 @@
 
 [深度学习笔记目录大全（吴恩达）--终于有翻译版本了](https://blog.csdn.net/sinat_41832255/article/details/80061620)
 
+[神经网络——最易懂最清晰的一篇文章](https://blog.csdn.net/illikang/article/details/82019945)
+
 #### NLP
 
 [15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
