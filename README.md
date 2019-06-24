@@ -12,6 +12,8 @@
 
 [Chrome 下载](https://www.slimjet.com/chrome/google-chrome-old-version.php)
 
+[golang chromedp简单学习](https://www.jianshu.com/p/d282b4a57596)
+
 ## 爬虫
 
 ### cookie 相关
