@@ -103,6 +103,8 @@
 
 [python中文短文本的预处理及聚类分析（NLP）](https://blog.csdn.net/weixin_43483381/article/details/85157579)
 
+[难以置信！LSTM和GRU的解析从未如此清晰（动图+视频）](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82922386)
+
 #### 图像相关
 
 [深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
