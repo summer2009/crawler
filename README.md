@@ -89,6 +89,10 @@
 
 [计算机的潜意识——从机器学习谈起](https://www.cnblogs.com/subconscious/p/4107357.html)
 
+[循环神经网络RNN图解](https://baijiahao.baidu.com/s?id=1612358810937334377&wfr=spider&for=pc)
+
+[难以置信！LSTM和GRU的解析从未如此清晰（动图+视频）](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82922386)
+
 #### NLP
 
 [15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
@@ -102,8 +106,6 @@
 [深度学习Attention机制在短文本分类上的应用——qjzcy的博客](https://blog.csdn.net/qjzcy/article/details/70215885)
 
 [python中文短文本的预处理及聚类分析（NLP）](https://blog.csdn.net/weixin_43483381/article/details/85157579)
-
-[难以置信！LSTM和GRU的解析从未如此清晰（动图+视频）](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82922386)
 
 #### 图像相关
 
