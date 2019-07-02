@@ -87,6 +87,8 @@
 
 [神经网络——最易懂最清晰的一篇文章](https://blog.csdn.net/illikang/article/details/82019945)
 
+[计算机的潜意识——从机器学习谈起](https://www.cnblogs.com/subconscious/p/4107357.html)
+
 #### NLP
 
 [15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
