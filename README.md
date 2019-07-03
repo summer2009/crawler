@@ -101,6 +101,8 @@
 
 [Gensim Word2vec 使用指南](https://www.jianshu.com/p/52ee8c5739b6)
 
+[Gensim实践](https://segmentfault.com/a/1190000008173404)
+
 [中文文本聚类](https://www.cnblogs.com/zhuimengzhe/p/7818336.html)
 
 [深度学习Attention机制在短文本分类上的应用——qjzcy的博客](https://blog.csdn.net/qjzcy/article/details/70215885)
