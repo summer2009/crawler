@@ -95,6 +95,8 @@
 
 #### NLP
 
+[自己动手写word2vec (一):主要概念和流程](https://blog.csdn.net/u014595019/article/details/51884529)
+
 [15分钟入门NLP神器—Gensim](https://blog.csdn.net/l7h9ja4/article/details/80220939)
 
 [gensim简介](https://www.jianshu.com/p/e21b59a46e4c)
