@@ -109,6 +109,8 @@
 
 [深度学习Attention机制在短文本分类上的应用——qjzcy的博客](https://blog.csdn.net/qjzcy/article/details/70215885)
 
+[文本分类中attention理解](https://blog.csdn.net/fkyyly/article/details/82501126)
+
 [python中文短文本的预处理及聚类分析（NLP）](https://blog.csdn.net/weixin_43483381/article/details/85157579)
 
 #### 图像相关
