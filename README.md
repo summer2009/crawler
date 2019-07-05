@@ -115,6 +115,8 @@
 
 [注意力机制的基本思想和实现原理（很详细）第一篇](https://blog.csdn.net/weixin_43251230/article/details/89603544)
 
+[注意力机制的基本思想和实现原理（很详细）(第二篇)](https://blog.csdn.net/hpulfc/article/details/80449561)
+
 [python中文短文本的预处理及聚类分析（NLP）](https://blog.csdn.net/weixin_43483381/article/details/85157579)
 
 #### 图像相关
