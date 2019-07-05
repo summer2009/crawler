@@ -111,6 +111,8 @@
 
 [文本分类中attention理解](https://blog.csdn.net/fkyyly/article/details/82501126)
 
+[注意力机制（Attention Mechanism）在自然语言处理中的应用](https://blog.csdn.net/jdbc/article/details/52948351)
+
 [python中文短文本的预处理及聚类分析（NLP）](https://blog.csdn.net/weixin_43483381/article/details/85157579)
 
 #### 图像相关
