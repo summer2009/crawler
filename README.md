@@ -121,6 +121,8 @@
 
 [bert详解](http://www.sohu.com/a/322817228_294584)
 
+[图解bert](https://www.cnblogs.com/d0main/p/10165671.html)
+
 #### 图像相关
 
 [深度学习开源图片数据库汇总](https://blog.csdn.net/chaipp0607/article/details/71403797)
